@@ -173,12 +173,3 @@ Biggest realization:
 - custom presets/macros
 
 ---
-
-
-
-
-
-
-   └── 330Ω resistor
-         └── SN74HCT245N
-               └── LED DIN
