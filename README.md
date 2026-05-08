@@ -87,7 +87,7 @@ slowly evolved into:
 ## Total Cost
 
 - ₹3,492 INR
-- ~$40.70 USD
+- ~$42.70 USD
 
 ---
 
