@@ -122,6 +122,8 @@ ESP32 GPIO
          └── SN74HCT245N
                └── LED DIN
 ```
+
+ <img src="schematic.png" alt="WLED Room RGB Project Banner">
 # Power Injection
 
 Power is injected:
